@@ -1,0 +1,27 @@
+{
+  "name": "pls-halp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^1.5.1",
+    "discord.js": "^11.5.1",
+    "google": "^2.1.0",
+    "math.js": "^1.1.43",
+    "mathjs": "^6.0.2",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "opus": "0.0.0",
+    "opusscript": "0.0.6",
+    "permissions": "^0.1.0",
+    "profanities": "^2.11.0",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^0.29.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
